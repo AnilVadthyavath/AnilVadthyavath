@@ -8,7 +8,7 @@
 ## 🧠 Current Focus: 2025 Goals
 
 🧩 **DSA Mastery** — Practicing daily on LeetCode & GeeksforGeeks  
-📚 **GATE 2025 Preparation** — Target: IIT Bombay for CSE  
+📚 **GATE 2026 Preparation**   
 💪 **Brother's Challenge** (Nov 1, 2024 – Nov 1, 2025)  
 - Gym, Meditation, Books, and Full Self-Transformation  
 - Public progress updates every 90 days  
@@ -43,5 +43,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vadthyavathanil/)
 - 📧 anilvadthyavath.ai@gmail.com
+
+![Banner](https://your-image-link.com/banner.png)
 
 Let’s grow, build, and break limits. 💥
