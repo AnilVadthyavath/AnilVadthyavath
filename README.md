@@ -33,7 +33,7 @@
 - 🚀 [ML Deployment with FastAPI + Streamlit](#)
 
 ### 🧱 Web & Resume Projects  
-- 💼 [AI Resume Builder (Open Source)](https://github.com/AnilVadthyavath/AI-Resume-Builder.git)  
+- 💼 [AI Resume Builder (Open Source)](https://github.com/AnilVadthyavath/Ai-Resume-Builder.git)  
 - 🌐 [Personal Portfolio Website](#) *(Coming Soon)*  
 
 ### 📘 GATE 2026  
