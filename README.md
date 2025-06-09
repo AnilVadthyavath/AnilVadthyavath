@@ -13,7 +13,7 @@
 📚 **GATE 2026 Preparation** — Strong fundamentals + public revision notes  
 💪 **Self-Transformation Challenge** *(Nov 1, 2024 – Nov 1, 2025)*  
 - Gym, Meditation, Reading, No-Zero-Days Discipline  
-- Progress updates every 90 days → [Track Here](#)
+- Progress updates every 90 days → [Track Here](https://www.linkedin.com/in/vadthyavathanil/)
 
 ---
 
