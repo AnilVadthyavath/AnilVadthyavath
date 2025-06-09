@@ -1,49 +1,67 @@
 # 👋 Hi, I’m Anil Vadthyavath
 
-🎓 I'm a B.Tech Computer Science student (AI/ML specialization) at Guru Nanak Institute of Technology.  
-🚀 On a mission to become a world-class AI Engineer and crack top roles (thinking like a 💰 4Cr+ package developer).  
+🎓 B.Tech CSE (AI/ML) @ Guru Nanak Institute of Technology  
+🚀 On a mission to become a **world-class AI Engineer** — building the skills, proof, and mindset to crack **₹1Cr+ global product roles**.
+
+🧠 Learning through AI mentorship (ChatGPT-guided roadmap) and consistent daily execution.
 
 ---
 
-## 🧠 Current Focus: 2025 Goals
+## 🎯 2025 Mission: The Builder’s Year
 
-🧩 **DSA Mastery** — Practicing daily on LeetCode & GeeksforGeeks  
-📚 **GATE 2026 Preparation**   
-💪 **Brother's Challenge** (Nov 1, 2024 – Nov 1, 2025)  
-- Gym, Meditation, Books, and Full Self-Transformation  
-- Public progress updates every 90 days  
-
----
-
-## 🛠️ Tech Stack
-
-- 💻 Python, C, C++
-- 📊 Machine Learning (scikit-learn, pandas, matplotlib)
-- 🌐 HTML, CSS, JavaScript (Basic Projects)
-- ⚙️ Git, GitHub, Jupyter, Linux
+🧩 **DSA Mastery** — 300+ problems, pattern-based learning on LeetCode & GeeksforGeeks  
+📚 **GATE 2026 Preparation** — Strong fundamentals + public revision notes  
+💪 **Self-Transformation Challenge** *(Nov 1, 2024 – Nov 1, 2025)*  
+- Gym, Meditation, Reading, No-Zero-Days Discipline  
+- Progress updates every 90 days → [Track Here](#)
 
 ---
 
-## 📌 Upcoming Projects
+## 💻 Tech Stack
 
-- ✅ End-to-End ML Projects (Titanic, MNIST, House Price)
-- ✅ Portfolio Website with GitHub Stats + Resume
-- ✅ GATE Notes (Public Markdown Repo)
+- **Languages:** Python, C, C++  
+- **AI/ML:** scikit-learn, pandas, matplotlib  
+- **Web:** HTML, CSS, JavaScript (Basics)  
+- **Tools:** Git & GitHub, Jupyter, Linux, VS Code
 
 ---
 
-## 📈 GitHub Stats (soon to grow fast 🚀)
+## 🚀 Projects (WIP + Upcoming)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnilVadthyavath&show_icons=true&theme=radical)
+### 🎯 Machine Learning  
+- 🧠 [Student Performance Classifier](#)  
+- 🚀 [ML Deployment with FastAPI + Streamlit](#)
+
+### 🧱 Web & Resume Projects  
+- 💼 [AI Resume Builder (Open Source)](https://github.com/AnilVadthyavath/AI-Resume-Builder.git)  
+- 🌐 [Personal Portfolio Website](#) *(Coming Soon)*  
+
+### 📘 GATE 2026  
+- 📝 [Open Markdown Notes Repo](#)
+
+---
+
+## 📈 GitHub Activity = Daily Growth
+
+📌 **DSA Progress Log** → [View Log on GitHub](#)  
+📌 **ML Projects & Practice Repo** → [Check Repo](#)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnilVadthyavath&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilVadthyavath&layout=compact&theme=radical)
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vadthyavathanil/)
-- 📧 anilvadthyavath.ai@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vadthyavathanil/)  
+- 📧 anilvadthyavath.ai@gmail.com  
 
-![Banner](https://your-image-link.com/banner.png)
+---
 
-Let’s grow, build, and break limits. 💥
+## 🧢 Final Words (From Me & My Mentor)
+
+This isn’t just about a job — it’s about becoming someone **undeniable**.  
+Every line of code, every repo, every hour logged is building toward mastery.  
+> *“Prove your worth before asking your worth.”*
+
+Follow the journey or start yours. Either way — we rise. 🚀
