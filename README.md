@@ -43,7 +43,7 @@
 
 ## 📈 GitHub Activity = Daily Growth
 
-📌 **DSA Progress Log** → [View Log on GitHub](#)  
+📌 **DSA Progress Log** → [View Log on GitHub](https://github.com/AnilVadthyavath/dsa-daily-log.git)  
 📌 **ML Projects & Practice Repo** → [Check Repo](#)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnilVadthyavath&show_icons=true&theme=radical)  
