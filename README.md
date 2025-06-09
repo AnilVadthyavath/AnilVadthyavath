@@ -54,7 +54,7 @@
 ## 📫 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vadthyavathanil/)  
-- 📧 anilvadthyavath.ai@gmail.com  
+- 📧 vadthyavathanil.ai@gmail.com  
 
 ---
 
