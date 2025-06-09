@@ -44,7 +44,7 @@
 ## 📈 GitHub Activity = Daily Growth
 
 📌 **DSA Progress Log** → [View Log on GitHub](https://github.com/AnilVadthyavath/dsa-daily-log.git)  
-📌 **ML Projects & Practice Repo** → [Check Repo](#)
+📌 **ML Projects & Practice Repo** → [Check Repo](https://github.com/AnilVadthyavath/EngageAI-Classroom.git)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnilVadthyavath&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilVadthyavath&layout=compact&theme=radical)
