@@ -12,7 +12,7 @@
 - 🎓 Preparing for **GATE CSE 2026** (Target: IIT Bombay)
 - 🔬 Exploring **AI/ML**, **Data Structures & Algorithms**
 - 🚀 Building and deploying real-world projects
-- 📚 Balancing academics, coding, and self-growth (Brother’s Challenge 💪)
+- 📚 Balancing academics, coding, and self-growth [Brother’s Challenge 💪](https://www.linkedin.com/in/vadthyavathanil)
 
 ---
 
