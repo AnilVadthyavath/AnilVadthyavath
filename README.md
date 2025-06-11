@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vadthyavath Anil</h1>
-<h3 align="center">CSE Undergrad | GATE CSE 2026 Aspirant | AI/ML & DSA Enthusiast</h3>
+<h3 align="center">Pre-final Year CSE Undergrad (2023–2027) | GATE CSE 2026 Aspirant | Focused on AI/ML & DSA</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnilVadthyavath&label=Profile%20views&color=0e75b6&style=flat" alt="AnilVadthyavath" />
