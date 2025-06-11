@@ -6,6 +6,12 @@
 🧠 Learning through AI mentorship (ChatGPT-guided roadmap) and consistent daily execution.
 
 ---
+<!---- Simple badge strip -->
+[![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=vadhyavath-anil)](https://leetcode.com/vadhyavath-anil)
+
+<!---- Fancy version: animated, dark-mode borderless -->
+[![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=vadhyavath-anil&animated=true&border=no-border)](https://leetcode.com/vadhyavath-anil)
+
 
 ## 🎯 2025 Mission: The Builder’s Year
 
