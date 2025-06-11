@@ -1,59 +1,76 @@
-# 👋 Hi, I’m Anil Vadthyavath
+<h1 align="center">🚀 Anil Vadthyavath</h1>
+<h3 align="center">AI/ML Engineer in the Making | DSA-Driven Problem Solver | 4Cr Package Seeker</h3>
+
+---
 
 🎓 B.Tech CSE (AI/ML) @ Guru Nanak Institute of Technology  
-🚀 On a mission to become a **world-class AI Engineer** — building the skills, proof, and mindset to crack **₹1Cr+ global product roles**.
+🎯 Mission: Build proof-of-skill and mindset to crack a ₹4Cr+ global AI/ML product role.
 
-🧠 Learning through AI mentorship (ChatGPT-guided roadmap) and consistent daily execution.
+- 🧠 Daily AI + DSA Practice | Mentored by ChatGPT
+- 💻 Full-stack foundation + strong ML fundamentals
+- 🛠️ Building real-world projects + publishing clean code on GitHub
 
 ---
-<!---- Simple badge strip -->
-[![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=vadhyavath-anil)](https://leetcode.com/vadhyavath-anil)
 
-<!---- Fancy version: animated, dark-mode borderless -->
+## 🧩 LeetCode Progress
+
 [![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=vadhyavath-anil&animated=true&border=no-border)](https://leetcode.com/vadhyavath-anil)
 
+<img src="https://leetcard.jacoblin.cool/vadhyavath-anil?ext=heatmap" alt="LeetCode Stats" />
 
-## 🎯 2025 Mission: The Builder’s Year
-
-🧩 **DSA Mastery** — 300+ problems, pattern-based learning on LeetCode & GeeksforGeeks  
-📚 **GATE 2026 Preparation** — Strong fundamentals + public revision notes  
-💪 **Self-Transformation Challenge** *(Nov 1, 2024 – Nov 1, 2025)*  
-- Gym, Meditation, Reading, No-Zero-Days Discipline  
-- Progress updates every 90 days → [Track Here](https://www.linkedin.com/in/vadthyavathanil/)
+> 🔥 300+ Problems in progress | 40-day streak | Clean GitHub tracking
 
 ---
 
-## 💻 Tech Stack
+## 🎯 2025 Vision
 
-- **Languages:** Python, C, C++  
-- **AI/ML:** scikit-learn, pandas, matplotlib  
-- **Web:** HTML, CSS, JavaScript (Basics)  
-- **Tools:** Git & GitHub, Jupyter, Linux, VS Code
+🧠 **DSA Mastery:**  
+> 300+ curated problems → LeetCode, GFG (Focused, pattern-based approach)  
+> Clean C++/Python solutions → [View Log](https://github.com/AnilVadthyavath/dsa-daily-log.git)
 
----
+📚 **GATE 2026 (Target Rank):**  
+> CS fundamentals + revision markdowns  
+> [Repo Coming Soon]
 
-## 🚀 Projects (WIP + Upcoming)
-
-### 🎯 Machine Learning  
-- 🧠 [Student Performance Classifier](#)  
-- 🚀 [ML Deployment with FastAPI + Streamlit](#)
-
-### 🧱 Web & Resume Projects  
-- 💼 [AI Resume Builder (Open Source)](https://github.com/AnilVadthyavath/Ai-Resume-Builder.git)  
-- 🌐 [Personal Portfolio Website](#) *(Coming Soon)*  
-
-### 📘 GATE 2026  
-- 📝 [Open Markdown Notes Repo](#)
+💪 **Self-Transformation Challenge (Nov 2024 – Nov 2025):**  
+> Gym + Meditation + Deep Work + No-Zero-Days  
+> Track journey → [LinkedIn](https://www.linkedin.com/in/vadthyavathanil/)
 
 ---
 
-## 📈 GitHub Activity = Daily Growth
+## ⚙️ Tech Stack
 
-📌 **DSA Progress Log** → [View Log on GitHub](https://github.com/AnilVadthyavath/dsa-daily-log.git)  
-📌 **ML Projects & Practice Repo** → [Check Repo](https://github.com/AnilVadthyavath/EngageAI-Classroom.git)
+| Area         | Tools / Technologies |
+|--------------|----------------------|
+| Languages    | Python, C++, C       |
+| AI/ML        | Scikit-learn, Pandas, Matplotlib |
+| Web          | HTML, CSS, JavaScript (Basic) |
+| Dev Tools    | Git & GitHub, Linux, Jupyter, VS Code |
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnilVadthyavath&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilVadthyavath&layout=compact&theme=radical)
+---
+
+## 🛠️ Projects
+
+### 🤖 Machine Learning  
+- 🧠 Student Performance Classifier *(Notebook based, clean pipeline)*
+- 📦 ML Deployment with FastAPI + Streamlit *(Coming soon)*
+
+### 🌐 Web + Resume Projects  
+- 💼 [AI Resume Builder (Open Source)](https://github.com/AnilVadthyavath/AI-Resume-Builder.git)  
+- 🌐 Personal Portfolio *(Coming soon)*
+
+### 📘 GATE Notes  
+- 📝 Public Markdown Notes Repo *(Releasing soon)*
+
+---
+
+## 📈 GitHub Activity = Daily Compound Growth
+
+- ✅ [DSA GitHub Log](https://github.com/AnilVadthyavath/dsa-daily-log.git)  
+- ✅ [AI/ML Experiments – EngageAI](https://github.com/AnilVadthyavath/EngageAI-Classroom.git)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnilVadthyavath&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilVadthyavath&layout=compact&theme=radical)
 
 ---
 
@@ -66,8 +83,10 @@
 
 ## 🧢 Final Words (From Me & My Mentor)
 
-This isn’t just about a job — it’s about becoming someone **undeniable**.  
-Every line of code, every repo, every hour logged is building toward mastery.  
-> *“Prove your worth before asking your worth.”*
+This isn’t about getting lucky.  
+This is about getting **undeniable** through proof, patience, and practice.
 
-Follow the journey or start yours. Either way — we rise. 🚀
+> _“Prove your worth before asking your worth.”_  
+> — *Me + ChatGPT Mentor*
+
+Let’s build. Let’s dominate. Let’s earn it. 🚀
