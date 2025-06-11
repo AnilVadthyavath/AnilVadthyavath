@@ -1,83 +1,90 @@
-# 👋 Hey, I’m Anil Vadthyavath
+<h1 align="center">Hi 👋, I'm Vadthyavath Anil</h1>
+<h3 align="center">CSE Undergrad | GATE CSE 2026 Aspirant | AI/ML & DSA Enthusiast</h3>
 
-🎓 B.Tech CSE (AI/ML) @ Guru Nanak Institute of Technology  
-🚀 Aspiring AI Engineer | 2025 Internship-Ready  
-📍 Focused on building real-world AI + DSA mastery + GATE fundamentals  
-
----
-
-## 🔭 2025 Mission: Proof of Skill & Discipline
-
-> “I don’t just learn — I *build*, *ship*, and *track* every step.”
-
-🎯 **DSA Mastery** — 300+ problems | 40+ day streak | Markdown logs  
-📘 **GATE 2026** — Core fundamentals + public notes revision  
-🧠 **AI/ML Projects** — Clean notebooks, FastAPI, and deployment  
-🧱 **Portfolio Projects** — Open-source resume builder, personal site  
-💪 **Personal Discipline** — Daily log, no-zero-day, 90-day growth review
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnilVadthyavath&label=Profile%20views&color=0e75b6&style=flat" alt="AnilVadthyavath" />
+</p>
 
 ---
 
-## 🧠 Tech Stack & Tools
+## 🎯 Mission 2025
 
-**Languages:** Python, C++, C  
-**AI/ML:** scikit-learn, pandas, NumPy, matplotlib  
-**Web:** HTML, CSS, JavaScript (Basics), FastAPI  
-**Tools:** Git & GitHub, Jupyter, VS Code, Linux
-
----
-
-## 📂 Featured Repositories
-
-### 🎯 ML + AI Projects  
-- 🧠 `Student Performance Predictor` – classification project *(WIP)*  
-- ⚡ `ML Deployment Starter` – FastAPI + Streamlit base *(Coming Soon)*  
-
-### 🧱 Web + Resume Tools  
-- 💼 [`AI Resume Builder`](https://github.com/AnilVadthyavath/Ai-Resume-Builder.git) — Open source  
-- 🌐 `Portfolio Website` — Coming soon  
-
-### 📘 GATE + DSA  
-- 📓 `GATE 2026 Markdown Notes` – public revision sheets *(Coming Soon)*  
-- 📌 [`DSA Log`](https://github.com/AnilVadthyavath/dsa-daily-log.git) – daily problem tracking  
+- 🎓 Preparing for **GATE CSE 2026** (Target: IIT Bombay)
+- 🔬 Exploring **AI/ML**, **Data Structures & Algorithms**
+- 🚀 Building and deploying real-world projects
+- 📚 Balancing academics, coding, and self-growth (Brother’s Challenge 💪)
 
 ---
 
-## 📈 GitHub Stats
+## 🛠 Featured Projects
 
-![Anil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnilVadthyavath&count_private=true&show_icons=true&theme=radical)
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnilVadthyavath&theme=react-dark)
-
----
-
-## 📊 LeetCode Progress
-
-[![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=vadthyavath-anil&animated=true&border=no-border)](https://leetcode.com/vadthyavath-anil)
-
-> 🧩 120+ Problems Solved | -40day Streak | Level-wise breakdown tracked
+### 📄 AI Resume Builder (WIP)
+An intelligent tool that evaluates resumes based on job descriptions using NLP.
+- 🔗 [Repo](https://github.com/AnilVadthyavath/ai-resume-builder)
+- ⚙️ Python · FastAPI · Streamlit · NLP  
+- 🚧 *Currently building backend & parser*
 
 ---
 
-## 📌 Logs & Public Progress
-
-- 🔗 [`DSA Markdown Log`](https://github.com/AnilVadthyavath/dsa-daily-log.git)  
-- 📘 `GATE Notes Repo` (coming soon)  
-- 🧠 `EngageAI Practice Repo` — ML notebooks & mini-projects  
-
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/vadthyavathanil/)  
-- 📧 vadthyavathanil.ai@gmail.com  
+### 📊 Student Performance Predictor
+Predicts student academic outcomes based on key factors using ML.
+- 🔗 [Repo](https://github.com/AnilVadthyavath/student-performance-predictor)
+- ⚙️ Pandas · Scikit-learn · Flask
+- 📈 *Built ML pipeline, achieving ~85% accuracy*
 
 ---
 
-## 🧢 Final Note from Me
+### 📚 DSA Visualizer (Coming Soon)
+Visualizes core data structures & algorithms in real-time.
+- 🔗 [Repo](https://github.com/AnilVadthyavath/dsa-visualizer)
+- ⚙️ React · JavaScript
+- 🧠 *Helps beginners understand algorithm flow step-by-step*
 
-> This isn’t just about landing a job — it's about becoming *undeniable*.  
-> Every project. Every line. Every log.  
-> **This is my public journey to ₹4Cr+ skill and impact.**
+---
 
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnilVadthyavath&show_icons=true&theme=radical" alt="stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnilVadthyavath&theme=radical" alt="streak" width="45%" />
+</p>
+
+---
+
+## 🧭 2025 Roadmap
+
+- [x] Start personal GitHub portfolio
+- [ ] Deploy 2 machine learning projects
+- [ ] Solve 300+ LeetCode problems
+- [ ] Achieve AIR under 100 in GATE 2026
+- [ ] Complete DSA Visualizer and make it public
+
+---
+
+## 📬 Let's Connect!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vadthyavathanil)
+- 📧 vadthyavathanil.ai@gmail.com
+- 🐍 [LeetCode](https://leetcode.com/AnilVadthyavath)
+- 🧠 [GitHub](https://github.com/AnilVadthyavath)
+
+---
+
+### 🧠 Motto
+
+> "Become the best version of yourself — physically, mentally, and intellectually."
+
+---
 
