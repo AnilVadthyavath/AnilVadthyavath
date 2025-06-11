@@ -55,9 +55,9 @@
 
 ## 📊 LeetCode Progress
 
-[![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=vadhyavath-anil&animated=true&border=no-border)](https://leetcode.com/vadhyavath-anil)
+[![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=vadthyavath-anil&animated=true&border=no-border)](https://leetcode.com/vadthyavath-anil)
 
-> 🧩 673 Problems Solved | 40-Day Streak | Level-wise breakdown tracked
+> 🧩 120+ Problems Solved | -40day Streak | Level-wise breakdown tracked
 
 ---
 
