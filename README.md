@@ -82,5 +82,4 @@
 > Every project. Every line. Every log.  
 > **This is my public journey to ₹4Cr+ skill and impact.**
 
----
 
