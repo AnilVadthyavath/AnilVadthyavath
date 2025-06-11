@@ -1,92 +1,75 @@
-<h1 align="center">🚀 Anil Vadthyavath</h1>
-<h3 align="center">AI/ML Engineer in the Making | DSA-Driven Problem Solver | high Package Seeker</h3>
+# 👋 Hey, I'm Anil Vadthyavath
+
+🎓 B.Tech CSE (AI/ML) @ GNIT  
+🚀 Mission: Build world-class AI/ML skill, prove it through clean GitHub repos, and earn global product roles.
+
+🧠 Guided by daily execution, deep learning, and mentorship — combining DSA, core ML, and real-world projects to build my edge.
 
 ---
 
-🎓 B.Tech CSE (AI/ML) @ Guru Nanak Institute of Technology  
-🎯 Mission: Build proof-of-skill and mindset to crack a ₹4Cr+ global AI/ML product role.
+## 📌 Learning Journey (2024–25)
 
-- 🧠 Daily AI + DSA Practice | Mentored by ChatGPT
-- 💻 Full-stack foundation + strong ML fundamentals
-- 🛠️ Building real-world projects + publishing clean code on GitHub
+- 🔥 **DSA Mastery** → 300+ problems | Clean log on GitHub  
+- 🎯 **GATE 2026 Prep** → Strong CS fundamentals with markdown notes  
+- 🤖 **AI/ML Development** → From core ML to LLMs  
+- 🔍 **Daily Practice** → LeetCode streak + GitHub push
 
----
+### 📈 LeetCode Progress
 
-## 🧩 LeetCode Progress
-
-[![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=vadhyavath-anil&animated=true&border=no-border)](https://leetcode.com/vadhyavath-anil)
-
-<img src="https://leetcard.jacoblin.cool/vadhyavath-anil?ext=heatmap" alt="LeetCode Stats" />
-
-> 🔥 300+ Problems in progress | 40-day streak | Clean GitHub tracking
+[![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=vadhyavath-anil&theme=dark&border=no-border&animation=true)](https://leetcode.com/vadhyavath-anil)
 
 ---
 
-## 🎯 2025 Vision
+## 🚀 Featured Projects
 
-🧠 **DSA Mastery:**  
-> 300+ curated problems → LeetCode, GFG (Focused, pattern-based approach)  
-> Clean C++/Python solutions → [View Log](https://github.com/AnilVadthyavath/dsa-daily-log.git)
+### 🎯 AI/ML Projects
+- 🧠 **Student Performance Classifier** → Supervised ML pipeline (Coming Soon)
+- ⚡ **ML Deployment** → FastAPI + Streamlit for real-time prediction (WIP)
 
-📚 **GATE 2026 (Target Rank):**  
-> CS fundamentals + revision markdowns  
-> [Repo Coming Soon]
+### 🧱 Web Projects
+- 💼 [AI Resume Builder](https://github.com/AnilVadthyavath/Ai-Resume-Builder.git)  
+  → Auto-generates resume using AI, built with React + Node.js
 
-💪 **Self-Transformation Challenge (Nov 2024 – Nov 2025):**  
-> Gym + Meditation + Deep Work + No-Zero-Days  
-> Track journey → [LinkedIn](https://www.linkedin.com/in/vadthyavathanil/)
+- 🌐 **Portfolio Website** *(Coming Soon)*
 
----
-
-## ⚙️ Tech Stack
-
-| Area         | Tools / Technologies |
-|--------------|----------------------|
-| Languages    | Python, C++, C       |
-| AI/ML        | Scikit-learn, Pandas, Matplotlib |
-| Web          | HTML, CSS, JavaScript (Basic) |
-| Dev Tools    | Git & GitHub, Linux, Jupyter, VS Code |
+### 📘 GATE 2026
+- 📒 [CS Notes Repository](#) *(Public Soon)*
 
 ---
 
-## 🛠️ Projects
+## 🛠 Tech Toolbox
 
-### 🤖 Machine Learning  
-- 🧠 Student Performance Classifier *(Notebook based, clean pipeline)*
-- 📦 ML Deployment with FastAPI + Streamlit *(Coming soon)*
-
-### 🌐 Web + Resume Projects  
-- 💼 [AI Resume Builder (Open Source)](https://github.com/AnilVadthyavath/AI-Resume-Builder.git)  
-- 🌐 Personal Portfolio *(Coming soon)*
-
-### 📘 GATE Notes  
-- 📝 Public Markdown Notes Repo *(Releasing soon)*
+- **Languages:** Python, C, C++  
+- **ML Tools:** scikit-learn, pandas, matplotlib  
+- **Frontend:** HTML, CSS, JS (Basics)  
+- **Tools:** Git & GitHub, Jupyter, VS Code, Linux
 
 ---
 
-## 📈 GitHub Activity = Daily Compound Growth
+## 🧠 DSA Tracking
 
-- ✅ [DSA GitHub Log](https://github.com/AnilVadthyavath/dsa-daily-log.git)  
-- ✅ [AI/ML Experiments – EngageAI](https://github.com/AnilVadthyavath/EngageAI-Classroom.git)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnilVadthyavath&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilVadthyavath&layout=compact&theme=radical)
+- 📌 [DSA Daily Log](https://github.com/AnilVadthyavath/dsa-daily-log.git)  
+- 🔥 300+ Problems | 40-Day Streak | Markdown commits on GitHub
 
 ---
 
-## 📫 Let’s Connect
+## 📊 GitHub Activity
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnilVadthyavath&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilVadthyavath&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vadthyavathanil/)  
 - 📧 vadthyavathanil.ai@gmail.com  
 
 ---
 
-## 🧢 Final Words (From Me & My Mentor)
+## 🎯 Final Note
 
-This isn’t about getting lucky.  
-This is about getting **undeniable** through proof, patience, and practice.
+> I’m not just chasing a job — I’m building proof.  
+> Every repo, log, and commit is one step toward global excellence.  
+> *“Mastery > Motivation. Build daily. The world will notice.”*
 
-> _“Prove your worth before asking your worth.”_  
-> — *Me + ChatGPT Mentor*
-
-Let’s build. Let’s dominate. Let’s earn it. 🚀
