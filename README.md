@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Anil Vadthyavath</h1>
-<h3 align="center">AI/ML Engineer in the Making | DSA-Driven Problem Solver | 4Cr Package Seeker</h3>
+<h3 align="center">AI/ML Engineer in the Making | DSA-Driven Problem Solver | high Package Seeker</h3>
 
 ---
 
