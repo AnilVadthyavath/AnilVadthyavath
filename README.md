@@ -43,13 +43,11 @@
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Stats
 
-<!-- GitHub Stats -->
-![Anil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnilVadthyavath&show_icons=true&theme=radical)
+![Anil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnilVadthyavath&count_private=true&show_icons=true&theme=radical)
 
-<!-- Language Usage -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilVadthyavath&layout=compact&theme=radical)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnilVadthyavath&theme=react-dark)
 
 ---
 
