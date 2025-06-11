@@ -77,7 +77,7 @@ Visualizes core data structures & algorithms in real-time.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vadthyavathanil)
 - 📧 vadthyavathanil.ai@gmail.com
-- 🐍 [LeetCode](https://leetcode.com/AnilVadthyavath)
+- 🐍 [LeetCode](https://leetcode.com/vadthyavath-anil)
 - 🧠 [GitHub](https://github.com/AnilVadthyavath)
 
 ---
