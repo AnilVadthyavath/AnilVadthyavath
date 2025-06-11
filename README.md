@@ -1,75 +1,86 @@
-# 👋 Hey, I'm Anil Vadthyavath
+# 👋 Hey, I’m Anil Vadthyavath
 
-🎓 B.Tech CSE (AI/ML) @ GNIT  
-🚀 Mission: Build world-class AI/ML skill, prove it through clean GitHub repos, and earn global product roles.
-
-🧠 Guided by daily execution, deep learning, and mentorship — combining DSA, core ML, and real-world projects to build my edge.
-
----
-
-## 📌 Learning Journey (2024–25)
-
-- 🔥 **DSA Mastery** → 300+ problems | Clean log on GitHub  
-- 🎯 **GATE 2026 Prep** → Strong CS fundamentals with markdown notes  
-- 🤖 **AI/ML Development** → From core ML to LLMs  
-- 🔍 **Daily Practice** → LeetCode streak + GitHub push
-
-### 📈 LeetCode Progress
-
-[![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=vadthyavath-anil&theme=dark&border=no-border&animation=true)](https://leetcode.com/vadthyavath-anil)
+🎓 B.Tech CSE (AI/ML) @ Guru Nanak Institute of Technology  
+🚀 Aspiring AI Engineer | 2025 Internship-Ready  
+📍 Focused on building real-world AI + DSA mastery + GATE fundamentals  
 
 ---
 
-## 🚀 Featured Projects
+## 🔭 2025 Mission: Proof of Skill & Discipline
 
-### 🎯 AI/ML Projects
-- 🧠 **Student Performance Classifier** → Supervised ML pipeline (Coming Soon)
-- ⚡ **ML Deployment** → FastAPI + Streamlit for real-time prediction (WIP)
+> “I don’t just learn — I *build*, *ship*, and *track* every step.”
 
-### 🧱 Web Projects
-- 💼 [AI Resume Builder](https://github.com/AnilVadthyavath/Ai-Resume-Builder.git)  
-  → Auto-generates resume using AI, built with React + Node.js
-
-- 🌐 **Portfolio Website** *(Coming Soon)*
-
-### 📘 GATE 2026
-- 📒 [CS Notes Repository](#) *(Public Soon)*
+🎯 **DSA Mastery** — 300+ problems | 40+ day streak | Markdown logs  
+📘 **GATE 2026** — Core fundamentals + public notes revision  
+🧠 **AI/ML Projects** — Clean notebooks, FastAPI, and deployment  
+🧱 **Portfolio Projects** — Open-source resume builder, personal site  
+💪 **Personal Discipline** — Daily log, no-zero-day, 90-day growth review
 
 ---
 
-## 🛠 Tech Toolbox
+## 🧠 Tech Stack & Tools
 
-- **Languages:** Python, C, C++  
-- **ML Tools:** scikit-learn, pandas, matplotlib  
-- **Frontend:** HTML, CSS, JS (Basics)  
-- **Tools:** Git & GitHub, Jupyter, VS Code, Linux
-
----
-
-## 🧠 DSA Tracking
-
-- 📌 [DSA Daily Log](https://github.com/AnilVadthyavath/dsa-daily-log.git)  
-- 🔥 300+ Problems | 40-Day Streak | Markdown commits on GitHub
+**Languages:** Python, C++, C  
+**AI/ML:** scikit-learn, pandas, NumPy, matplotlib  
+**Web:** HTML, CSS, JavaScript (Basics), FastAPI  
+**Tools:** Git & GitHub, Jupyter, VS Code, Linux
 
 ---
 
-## 📊 GitHub Activity
+## 📂 Featured Repositories
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnilVadthyavath&show_icons=true&theme=radical)  
+### 🎯 ML + AI Projects  
+- 🧠 `Student Performance Predictor` – classification project *(WIP)*  
+- ⚡ `ML Deployment Starter` – FastAPI + Streamlit base *(Coming Soon)*  
+
+### 🧱 Web + Resume Tools  
+- 💼 [`AI Resume Builder`](https://github.com/AnilVadthyavath/Ai-Resume-Builder.git) — Open source  
+- 🌐 `Portfolio Website` — Coming soon  
+
+### 📘 GATE + DSA  
+- 📓 `GATE 2026 Markdown Notes` – public revision sheets *(Coming Soon)*  
+- 📌 [`DSA Log`](https://github.com/AnilVadthyavath/dsa-daily-log.git) – daily problem tracking  
+
+---
+
+## 📈 GitHub Activity
+
+<!-- GitHub Stats -->
+![Anil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnilVadthyavath&show_icons=true&theme=radical)
+
+<!-- Language Usage -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilVadthyavath&layout=compact&theme=radical)
 
 ---
 
-## 📫 Connect with Me
+## 📊 LeetCode Progress
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vadthyavathanil/)  
+[![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=vadhyavath-anil&animated=true&border=no-border)](https://leetcode.com/vadhyavath-anil)
+
+> 🧩 673 Problems Solved | 40-Day Streak | Level-wise breakdown tracked
+
+---
+
+## 📌 Logs & Public Progress
+
+- 🔗 [`DSA Markdown Log`](https://github.com/AnilVadthyavath/dsa-daily-log.git)  
+- 📘 `GATE Notes Repo` (coming soon)  
+- 🧠 `EngageAI Practice Repo` — ML notebooks & mini-projects  
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/vadthyavathanil/)  
 - 📧 vadthyavathanil.ai@gmail.com  
 
 ---
 
-## 🎯 Final Note
+## 🧢 Final Note from Me
 
-> I’m not just chasing a job — I’m building proof.  
-> Every repo, log, and commit is one step toward global excellence.  
-> *“Mastery > Motivation. Build daily. The world will notice.”*
+> This isn’t just about landing a job — it's about becoming *undeniable*.  
+> Every project. Every line. Every log.  
+> **This is my public journey to ₹4Cr+ skill and impact.**
+
+---
 
