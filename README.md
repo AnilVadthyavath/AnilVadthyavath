@@ -16,7 +16,7 @@
 
 ### 📈 LeetCode Progress
 
-[![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=vadhyavath-anil&theme=dark&border=no-border&animation=true)](https://leetcode.com/vadhyavath-anil)
+[![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=vadthyavath-anil&theme=dark&border=no-border&animation=true)](https://leetcode.com/vadthyavath-anil)
 
 ---
 
