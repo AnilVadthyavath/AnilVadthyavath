@@ -58,7 +58,7 @@ Visualizes core data structures & algorithms in real-time.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnilVadthyavath&show_icons=true&theme=radical" alt="stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnilVadthyavath&theme=radical" alt="streak" width="45%" />
+  <img src="https://streak-stats.demolab.com/?user=AnilVadthyavath&theme=radical" alt="streak" width="45%" />
 </p>
 
 ---
