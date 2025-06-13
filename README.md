@@ -3,7 +3,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnilVadthyavath&label=Profile%20views&color=0e75b6&style=flat" alt="AnilVadthyavath" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=AnilVadthyavath&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 ---
 
