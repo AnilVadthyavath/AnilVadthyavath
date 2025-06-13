@@ -62,7 +62,6 @@ Visualizes core data structures & algorithms in real-time.
   <img src="https://streak-stats.demolab.com/?user=AnilVadthyavath&theme=radical&cache_bust=1" width="45%" />
 </p>
 
-
 ---
 
 ## 🧭 2025 Roadmap
